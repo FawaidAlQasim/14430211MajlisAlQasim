@@ -1,0 +1,1 @@
+﻿positionForPages[492]={page:492,positions:[{word:"",left:0.122917,top:0.917291,width:0.299976,height:0.028156}]};
